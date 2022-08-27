@@ -1,4 +1,4 @@
-##Oii!!! Eu sou o José Pedro
+## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
 - 🌱 Estudando Desenvolvimento Web
 - 😄 Pronomes: ele/dele
