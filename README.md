@@ -8,5 +8,19 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-santos-68076015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/josepps/josepps/blob/output/github-contribution-grid-snake.svg)
+###
+<h2 align="left">Linguagens e ferramentas</h2>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg" height="30" width="42" alt="sass logo" />
+  <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" height="30" width="42" alt="react logo" >
+</div>
+
+![snake gif](https://github.com/josepps/josepps/blob/output/github-contribution-grid-snake.svg)
